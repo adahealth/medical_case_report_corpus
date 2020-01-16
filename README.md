@@ -24,3 +24,4 @@ The corpus statistics are summarized in the following Table:
 ## Reference
 
 You can find the complete paper discribing the dataset and example scenarios on how it can be used [here](https://github.com/adahealth/medical_case_report_corpus/blob/master/docs/Medical_Entities_in_Case_Reports.pdf).
+The corpus can be used under Creative Common Licenses. If you use it, please cite our paper.
