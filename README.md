@@ -6,7 +6,7 @@ We present a new corpus comprising annotations of medical entities in case repor
 ## Corpus Format
 
 The release format is a pickled BioC Json collection. You can process it with one of the many BioC libraries out there. 
-The collection contains individual documents in its documents list. Each of the documents contains 1 passage with all the text and an annotation and relation list each.  
+The collection contains individual documents in its document list. Each of the documents contains 1 passage with the text of one case report  and an annotation list and relation list each.  
 The annotations contain the locations of the annotation in the text. Each annotation looks like this:
 
 ```
